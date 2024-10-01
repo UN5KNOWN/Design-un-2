@@ -1685,6 +1685,7 @@ a {
   border-radius: 50%;
   background-color: var(--alt-main-color);
   box-shadow: 0 2px 15px rgb(0 0 0 / 20%);
+  z-index: 100;
 
   transition: var(--main-transition);
   display: none;
